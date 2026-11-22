@@ -1,0 +1,3 @@
+d1ff2da4012c348621715db8839bd252f34682b131db78815e894e52bb13157b  MiniNAS-Android-v3.0.0-release.apk
+249fbaeb95726b90a6e52541f6b9841f3463656aa0ad07b9c0db8e09cedec0d0  MiniNAS-Android-v3.0.0.aab
+c97e55470fb4330faeffc7ebae945e7eba00a809d4ffcdd78a2a53f2c3c2afc0  MiniNAS-Android-v3.0.0-debug.apk
